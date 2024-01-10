@@ -10,7 +10,7 @@ public class Game : MonoBehaviour
 
     [SerializeField] JostlingEffect jostlingCamera;
     [SerializeField] TextMeshPro countdownText;
-    [SerializeField, Min(1f)] float newGameDelay = 3f;
+    [SerializeField, Min(1f)] float newGameDelay = 4f;
 
     float countdownUntilNewGame;
 
@@ -127,7 +127,6 @@ public class Game : MonoBehaviour
         }
         
     }
-
     void EndGame()
     {
         countdownUntilNewGame = newGameDelay;
