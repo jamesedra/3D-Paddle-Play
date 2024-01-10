@@ -3,7 +3,7 @@ A prototype paddle ball game made in Unity URP.
 
  <img src="/Assets/GIF/showcase.gif" alt="Parametric Surfaces" style="width: 70%"> 
 
-*_GIF above is the current prototype._ 
+*_Above is the current prototype._ 
 
 *_This alpha build will be further developed and constructed for other features._
 
